@@ -1,0 +1,27 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Practice:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Practice_jar</output-path>
+    <root id="archive" name="Practice.jar">
+      <element id="module-output" name="Practice" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/commons-dbutils-1.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/commons-dbutils-1.7-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/commons-dbutils-1.7-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/mysql-connector-java-5.0.4-bin.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/audio.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/poi-examples-3.11-20141221.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/swingx-core-1.6.2-java7-patched.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/jacob-1.14.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/commons-dbutils-1.7-test-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/lombok.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/commons-dbutils-1.7-tests.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/seaglass-demo.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/mybatis-3.5.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/poi-excelant-3.11-20141221.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/SwingSets3(BeautyEyeLNFDemo).jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.6-bin.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/poi-3.11-20141221.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/jxl.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/mysql-connector-java-8.0.27.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

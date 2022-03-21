@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/mybatis-config.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/docs/txt�����ʽ.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/docs/ѧ������ϵͳ.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/lib/mybatis-3.5.7.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/lib/mysql-connector-java-8.0.27.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/model/MybatisUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/model/dao/StudentDAO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/model/dao/UserDAO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/model/entity/Student.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/util/DBManager.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/util/Information.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/util/MD5Util.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/util/ShowMessageUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/view" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/view/AboutSystem.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/view/AddStudentInfo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/view/Help.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/view/ImportExcel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/view/ImportTxt.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/view/Login.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/view/MainMenu.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/view/ModifyPasswordInfo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/view/OutputExcel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/view/OutputTxt.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/view/QueryStudentInfo.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
