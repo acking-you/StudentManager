@@ -1,5 +1,5 @@
 # StudentManager
-用Swing框架写的Java图形化学生信息管理系统，非常之美观！
+用Swing框架写的简单图形化，期末大作业
 # 界面展示
 ![图片0](StudentManager.gif)
 #代码概览
